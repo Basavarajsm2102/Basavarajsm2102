@@ -1,14 +1,16 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://basavarajsm2102.github.io/Basavaraj-Portfolio/)
 
-<h1 align="center">Hi 👋, I'm Basavaraj Madiwalar</h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<h3 align="center">Recent graduate. Eager to make an impact in the digital realm.</h3>
+<h1 align="center">Hi 👋, I'm Basavaraj</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineer;MLOps+Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basavarajsm2102&label=Profile%20views&color=0e75b6&style=flat" alt="basavarajsm2102" /> </p>
 
 - 🔭 I’m currently working on **Cyberbullying Detection ML Project**
 
-- 🌱 I’m currently learning **DevOps on AWS**
+- 🌱 I’m currently learning **MLOps**
 
 - 👨‍💻 All of my projects are available at [https://basavarajsm2102.github.io/Basavaraj-Portfolio/](https://basavarajsm2102.github.io/Basavaraj-Portfolio/)
 
@@ -26,8 +28,14 @@
 
 <img src="https://raw.githubusercontent.com/Basavarajsm2102/Basavarajsm2102/output/snake.svg" alt="Snake animation" />
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Basavarajsm2102&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=basavarajsm2102&show_icons=true&locale=en&layout=compact" alt="basavarajsm2102" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basavarajsm2102&show_icons=true&locale=en" alt="basavarajsm2102" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basavarajsm2102&" alt="basavarajsm2102" /></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
