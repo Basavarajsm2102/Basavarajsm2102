@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Basavaraj</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineer;MLOps+Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineer;MLOps%20and%20Devops+Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **Cyberbullying Detection ML Project**
 
-- 🌱 I’m currently learning **MLOps**
+- 🌱 I'm continuously learning and improving my skills in **MLOps and DevOps**
 
-- 👨‍💻 All of my projects are available at [https://basavarajsm2102.github.io/Basavaraj-Portfolio/](https://basavarajsm2102.github.io/Basavaraj-Portfolio/)
+- 👨‍💻 All of my projects are available at [BasavarajSM](https://basavarajsm2102.github.io/Basavaraj-Portfolio/)
 
 - 📫 How to reach me **basavarajsm2102@gmail.com**
 
